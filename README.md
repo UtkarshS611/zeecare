@@ -1,4 +1,4 @@
-# Zee Care
+![Screenshot 2024-10-03 231450](https://github.com/user-attachments/assets/63695520-684e-498f-9826-16e9985568b9)# Zee Care
 
 Zee Care is a healthcare platform that simplifies appointment scheduling for patients and healthcare providers. Built using the MERN stack, it offers a seamless, user-friendly experience.
 
@@ -26,7 +26,7 @@ To deploy the Zee Care application built with Vite, follow these steps:
 - npm or yarn
 - A server for deployment (e.g., Vercel, Netlify, or your own server)
 
-### Step 1: Clone the Repository
+### How to deploy the app on your local machine
 
 ```bash
 git clone https://github.com/UtkarshS611/zeecare.git
